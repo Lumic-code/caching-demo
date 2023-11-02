@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0ssxQtPTctRnjj/tEIGZLvUDE7OOKZPvmvZPdx5OcXk=",
+  "Source": "CachingDemo.Web",
+  "BasePath": "_content/CachingDemo.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

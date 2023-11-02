@@ -1,0 +1,17 @@
+C:\Users\wisdo\OneDrive\Desktop\CachingDemo.Web\CachingDemo.Infrastruture\bin\Debug\net6.0\CachingDemo.Infrastruture.deps.json
+C:\Users\wisdo\OneDrive\Desktop\CachingDemo.Web\CachingDemo.Infrastruture\bin\Debug\net6.0\CachingDemo.Infrastruture.runtimeconfig.json
+C:\Users\wisdo\OneDrive\Desktop\CachingDemo.Web\CachingDemo.Infrastruture\bin\Debug\net6.0\CachingDemo.Infrastruture.dll
+C:\Users\wisdo\OneDrive\Desktop\CachingDemo.Web\CachingDemo.Infrastruture\bin\Debug\net6.0\CachingDemo.Infrastruture.pdb
+C:\Users\wisdo\OneDrive\Desktop\CachingDemo.Web\CachingDemo.Infrastruture\bin\Debug\net6.0\CachingDemo.Core.dll
+C:\Users\wisdo\OneDrive\Desktop\CachingDemo.Web\CachingDemo.Infrastruture\bin\Debug\net6.0\CachingDemo.Core.pdb
+C:\Users\wisdo\OneDrive\Desktop\CachingDemo.Web\CachingDemo.Infrastruture\obj\Debug\net6.0\CachingDemo.Infrastruture.csproj.AssemblyReference.cache
+C:\Users\wisdo\OneDrive\Desktop\CachingDemo.Web\CachingDemo.Infrastruture\obj\Debug\net6.0\CachingDemo.Infrastruture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisdo\OneDrive\Desktop\CachingDemo.Web\CachingDemo.Infrastruture\obj\Debug\net6.0\CachingDemo.Infrastruture.AssemblyInfoInputs.cache
+C:\Users\wisdo\OneDrive\Desktop\CachingDemo.Web\CachingDemo.Infrastruture\obj\Debug\net6.0\CachingDemo.Infrastruture.AssemblyInfo.cs
+C:\Users\wisdo\OneDrive\Desktop\CachingDemo.Web\CachingDemo.Infrastruture\obj\Debug\net6.0\CachingDemo.Infrastruture.csproj.CoreCompileInputs.cache
+C:\Users\wisdo\OneDrive\Desktop\CachingDemo.Web\CachingDemo.Infrastruture\obj\Debug\net6.0\CachingDemo.Infrastruture.csproj.CopyComplete
+C:\Users\wisdo\OneDrive\Desktop\CachingDemo.Web\CachingDemo.Infrastruture\obj\Debug\net6.0\CachingDemo.Infrastruture.dll
+C:\Users\wisdo\OneDrive\Desktop\CachingDemo.Web\CachingDemo.Infrastruture\obj\Debug\net6.0\refint\CachingDemo.Infrastruture.dll
+C:\Users\wisdo\OneDrive\Desktop\CachingDemo.Web\CachingDemo.Infrastruture\obj\Debug\net6.0\CachingDemo.Infrastruture.pdb
+C:\Users\wisdo\OneDrive\Desktop\CachingDemo.Web\CachingDemo.Infrastruture\obj\Debug\net6.0\CachingDemo.Infrastruture.genruntimeconfig.cache
+C:\Users\wisdo\OneDrive\Desktop\CachingDemo.Web\CachingDemo.Infrastruture\obj\Debug\net6.0\ref\CachingDemo.Infrastruture.dll

@@ -1,0 +1,11 @@
+C:\Users\wisdo\OneDrive\Desktop\CachingDemo.Web\CachingDemo.Core\bin\Debug\net6.0\CachingDemo.Core.deps.json
+C:\Users\wisdo\OneDrive\Desktop\CachingDemo.Web\CachingDemo.Core\bin\Debug\net6.0\CachingDemo.Core.dll
+C:\Users\wisdo\OneDrive\Desktop\CachingDemo.Web\CachingDemo.Core\bin\Debug\net6.0\CachingDemo.Core.pdb
+C:\Users\wisdo\OneDrive\Desktop\CachingDemo.Web\CachingDemo.Core\obj\Debug\net6.0\CachingDemo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisdo\OneDrive\Desktop\CachingDemo.Web\CachingDemo.Core\obj\Debug\net6.0\CachingDemo.Core.AssemblyInfoInputs.cache
+C:\Users\wisdo\OneDrive\Desktop\CachingDemo.Web\CachingDemo.Core\obj\Debug\net6.0\CachingDemo.Core.AssemblyInfo.cs
+C:\Users\wisdo\OneDrive\Desktop\CachingDemo.Web\CachingDemo.Core\obj\Debug\net6.0\CachingDemo.Core.csproj.CoreCompileInputs.cache
+C:\Users\wisdo\OneDrive\Desktop\CachingDemo.Web\CachingDemo.Core\obj\Debug\net6.0\CachingDemo.Core.dll
+C:\Users\wisdo\OneDrive\Desktop\CachingDemo.Web\CachingDemo.Core\obj\Debug\net6.0\refint\CachingDemo.Core.dll
+C:\Users\wisdo\OneDrive\Desktop\CachingDemo.Web\CachingDemo.Core\obj\Debug\net6.0\CachingDemo.Core.pdb
+C:\Users\wisdo\OneDrive\Desktop\CachingDemo.Web\CachingDemo.Core\obj\Debug\net6.0\ref\CachingDemo.Core.dll
