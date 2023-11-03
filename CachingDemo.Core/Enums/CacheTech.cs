@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace CachingDemo.Core.Enums
 {
-    internal class CacheTech
+    public enum CacheTech
     {
+        Redis,
+        Memory
     }
 }

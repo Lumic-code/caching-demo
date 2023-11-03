@@ -107,6 +107,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Hangfire": {
+              "target": "Package",
+              "version": "[1.8.6, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.1, )"

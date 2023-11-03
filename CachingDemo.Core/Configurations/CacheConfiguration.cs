@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace CachingDemo.Core.Configurations
 {
-    internal class CacheConfiguration
+    public class CacheConfiguration
     {
+        public int AbsoluteExpirationInHours { get; set; }
+        public int SlidingExpiraationInMinutes { get; set; }
     }
 }
